@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/rashid-r/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
