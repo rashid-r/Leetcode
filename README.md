@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/rashid-r/Leetcode/tree/master/0058-length-of-last-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rashid-r/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Database
+|  |
+| ------- |
+| [1541-top-travellers](https://github.com/rashid-r/Leetcode/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
