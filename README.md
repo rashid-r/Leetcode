@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rashid-r/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/rashid-r/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rashid-r/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rashid-r/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rashid-r/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rashid-r/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/rashid-r/Leetcode/tree/master/1541-top-travellers) |
 | [1827-invalid-tweets](https://github.com/rashid-r/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rashid-r/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
