@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rashid-r/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/rashid-r/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rashid-r/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rashid-r/Leetcode/tree/master/0217-contains-duplicate) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rashid-r/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rashid-r/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rashid-r/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rashid-r/Leetcode/tree/master/0219-contains-duplicate-ii) |
