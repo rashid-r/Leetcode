@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rashid-r/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/rashid-r/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/rashid-r/Leetcode/tree/master/0507-perfect-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rashid-r/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
