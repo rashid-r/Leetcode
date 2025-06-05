@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rashid-r/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/rashid-r/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/rashid-r/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/rashid-r/Leetcode/tree/master/0507-perfect-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rashid-r/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/rashid-r/Leetcode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
