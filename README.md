@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rashid-r/Leetcode/tree/master/0058-length-of-last-word) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/rashid-r/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/rashid-r/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/rashid-r/Leetcode/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rashid-r/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rashid-r/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/rashid-r/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
