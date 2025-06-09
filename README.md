@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rashid-r/Leetcode/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/rashid-r/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rashid-r/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/rashid-r/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/rashid-r/Leetcode/tree/master/1944-truncate-sentence) |
