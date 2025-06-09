@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rashid-r/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/rashid-r/Leetcode/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rashid-r/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rashid-r/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rashid-r/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rashid-r/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rashid-r/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rashid-r/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rashid-r/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rashid-r/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rashid-r/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rashid-r/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
