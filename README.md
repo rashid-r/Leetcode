@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rashid-r/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/rashid-r/Leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/rashid-r/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rashid-r/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rashid-r/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/rashid-r/Leetcode/tree/master/0507-perfect-number) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rashid-r/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rashid-r/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rashid-r/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
