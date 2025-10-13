@@ -1,8 +1,16 @@
 public class Solution {
     public int MaximumCount(int[] nums) {
-        var pos = nums.Count(e => e>0);
-        var neg = nums.Count(x => x<0);
-        var max = Math.Max(pos,neg);
-        return max;
+        int pos = 0;
+        int neg = 0;
+        for(int i=0; i<nums.Length; i++){
+            if(nums[i] > 0){
+                pos ++;
+            }
+            if(nums[i] < 0){
+                neg ++;
+            }
+        }
+        var result = Math.Max(pos,neg);
+        return result;
     }
 }
