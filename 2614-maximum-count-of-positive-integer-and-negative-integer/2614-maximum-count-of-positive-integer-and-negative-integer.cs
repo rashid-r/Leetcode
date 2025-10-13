@@ -3,12 +3,10 @@ public class Solution {
         int pos = 0;
         int neg = 0;
         for(int i=0; i<nums.Length; i++){
-            if(nums[i] > 0){
+            if(nums[i] > 0)
                 pos ++;
-            }
-            if(nums[i] < 0){
+            else if(nums[i] < 0)
                 neg ++;
-            }
         }
         var result = Math.Max(pos,neg);
         return result;
