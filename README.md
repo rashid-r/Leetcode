@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rashid-r/Leetcode/tree/master/0507-perfect-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rashid-r/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rashid-r/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2544-alternating-digit-sum](https://github.com/rashid-r/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rashid-r/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3371-harshad-number](https://github.com/rashid-r/Leetcode/tree/master/3371-harshad-number) |
 ## Bit Manipulation
